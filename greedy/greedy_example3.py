@@ -14,6 +14,7 @@ for i in range(n):
     for a in data:
         min_value = min(min_value, a)
     result = max(result, min_value)
+    
 print(result)
 
 # 3 3
