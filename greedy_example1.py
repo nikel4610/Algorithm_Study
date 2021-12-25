@@ -11,4 +11,4 @@ for coin in coint_types:
     count += n // coin # coin_types 로 거슬러 줄 수 있는 동전 갯수
     n %= coin
     
-print(count)
+print(count) # answer = 6
