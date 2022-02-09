@@ -16,3 +16,9 @@ array = input().split()
 
 #결과 출력
 print("원소의 위치:", sequential_search(n, target, array))
+
+# 생성할 원소 개수를 입력하세요.
+# 5 dongbin
+# 앞서 적은 원소 개수만큼 문자열 입력.
+# hanul jonggu dongbin taeil sangwook
+# 원소의 위치: 3
