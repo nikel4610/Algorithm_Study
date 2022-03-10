@@ -17,3 +17,7 @@ for i in range(n): # 번호를 부를 때 마다 카운트 +1
 
 for i in range(1, 24):
   print(d[i], end=' ') # 카운트한 값을 공백을 두고 
+  
+# 거꾸로 부르기
+for i in range(n-1, -1, -1):
+  print(a[i], end=' ') # n-1, n-2 ... 2, 1, 0
